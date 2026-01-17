@@ -1,4 +1,4 @@
-# 💫 About Me:
+# (https://skillicons.dev/icons?i=arch)](https://skillicons.dev) About Me:
 🔭 I’m currently working on AI-workflow-automation<br>👯 I’m looking to collaborate on open source repo's<br>🌱 I’m currently learning Databricks for Data Engineering<br>⚡ Fun fact my favorite game is Last of Us
 
 
