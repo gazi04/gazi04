@@ -27,7 +27,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gazi04&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
-![](https://nirzak-streak-stats.vercel.app/?user=gazi04&theme=tokyonight&hide_border=false)<br/><br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=gazi04&theme=tokyonight)](https://git.io/streak-stats)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gazi04&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
