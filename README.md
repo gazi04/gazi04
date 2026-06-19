@@ -1,9 +1,25 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face.png" alt="Grinning Face" width="25" height="25" /> About me
-🔭 I’m currently working on AI-workflow-automation<br>👯 I’m looking to collaborate on open source repo's<br>🌱 I’m currently learning Databricks for Data Engineering<br>⚡ Fun fact my favorite game is Last of Us
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gazmendhalili) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gazmendhalili2016@gmail.com) 
+# Hey there, I'm Gazi
+ 
+### Junior Developer · Backend Enthusiast · Data Nerd · Open Source Contributor
+ 
+## 🧠 About Me
+ 
+I'm a recently graduated developer from Kosovo 🇽🇰 who gets genuinely excited about what happens *under the hood*. I gravitate towards **backend systems**, **data-intensive applications**, and **data engineering** — the kind of work where performance, reliability, and scale actually matter.
+ 
+I love going deep. Whether it's tracing a slow query through a database engine, designing a clean ETL pipeline, or figuring out why a microservice misbehaves at 3am (hypothetically), I'm in my element.
+ 
+- 🔭 I build things that move data, expose APIs, automate workflows, and occasionally crash in interesting ways
+- 🤝 I'm an **open source contributor** — including contributions to [Symfony](https://github.com/symfony/symfony), one of PHP's most battle-tested frameworks
+- 🧩 I enjoy side projects that are a bit unusual — games, cross-platform apps, CLI tools that spark joy
+- 🌱 Currently leveling up in **data engineering** and distributed systems
+- 📍 Based in Kosovo, building things for the world
+---
+ 
+## 📈 Currently Learning
+ 
+- 🏗️ Advanced data engineering patterns (streaming, batch, orchestration)
+- ☁️ Cloud-native architectures and distributed systems
+- 🐍 Deepening Python for data workloads (Airflow, dbt, Spark)
 
 # 💻 Tech Stack:
 <div >
